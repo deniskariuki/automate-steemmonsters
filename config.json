@@ -1,0 +1,14 @@
+{
+    "account": "holger80",
+    "match_type": "Ranked",
+    "decks": {
+
+    },
+    "play_counter": 50,
+    "play_delay": 3,
+    "stop_on_loosing_streak": 3,
+    "switch_on_loosing_streak": 1,
+    "switch_on_winning_streak": 1,
+    "play_inside_ranking_border": false,
+    "ranking_border": [2800, 3000]
+}
